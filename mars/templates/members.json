@@ -1,0 +1,64 @@
+{
+    "members": [
+        {
+            "name": "Black",
+            "photo": "black.jpg",
+            "skills": "Археолог"
+        },
+        {
+            "name": "Blue",
+            "photo": "blue.jpg",
+            "skills": "Специалист по радиационной защите"
+        },
+        {
+            "name": "Brown",
+            "photo": "brown.jpg",
+            "skills": "Инструктор"
+        },
+        {
+            "name": "Cyan",
+            "photo": "cyan.jpg",
+            "skills": "Испытатель"
+        },
+        {
+            "name": "Green",
+            "photo": "green.jpg",
+            "skills": "Исследователь"
+        },
+        {
+            "name": "Olive",
+            "photo": "olive.jpg",
+            "skills": "Биолог"
+        },
+        {
+            "name": "Orange",
+            "photo": "orange.jpg",
+            "skills": "Боец"
+        },
+        {
+            "name": "Pink",
+            "photo": "pink.jpg",
+            "skills": "Медсестра"
+        },
+        {
+            "name": "Purple",
+            "photo": "purple.jpg",
+            "skills": "Боец"
+        },
+        {
+            "name": "Red",
+            "photo": "red.jpg",
+            "skills": "Командир экипажа"
+        },
+        {
+            "name": "White",
+            "photo": "white.jpg",
+            "skills": "Электрик"
+        },
+        {
+            "name": "Yellow",
+            "photo": "yellow.jpg",
+            "skills": "Инженер связи"
+        }
+    ]
+}

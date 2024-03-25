@@ -1,0 +1,16 @@
+h1 {
+   color: black
+}
+
+h2 {
+   color: #d22e3a
+}
+
+.card {
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px 50px;
+    box-shadow: 5px 5px 30px #8A5224;
+    border-radius: 10px
+
+
